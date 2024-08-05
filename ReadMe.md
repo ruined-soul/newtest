@@ -2,14 +2,18 @@
 
 This is a Telegram bot to help manage your group effectively.
 
-## Setup
+## Setup on local host (termux)
 
-1. Install dependencies:
+1. Clone repository:
+    ```
+   git clone https://github.com/ruined-soul/newtest
+   ```
+2. Install dependencies:
     ```
     pip install -r requirements.txt
     ```
 
-2. Run the bot:
+3. Run the bot:
     ```
     python tg_bot/main.py
     ```
