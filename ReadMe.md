@@ -8,12 +8,16 @@ This is a Telegram bot to help manage your group effectively.
     ```
    git clone https://github.com/ruined-soul/newtest
    ```
-2. Install dependencies:
+2. Open directory
+   ```
+   cd newtest
+   ```
+3. Install dependencies:
     ```
     pip install -r requirements.txt
     ```
 
-3. Run the bot:
+4. Run the bot:
     ```
     python tg_bot/main.py
     ```
